@@ -1,4 +1,6 @@
 # Indian School Education Statistics
+*Use these data for Indian schools which includes GER, wtare facility, electricity, DR etc to analyse whether or not these schools are progressing*
+
 **Inspiration**
 
 This study is inspired by the quest to know how the education in India is progressing over the years. You can start your exploration by answering the below questions:
