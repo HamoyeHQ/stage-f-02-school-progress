@@ -23,3 +23,5 @@ Schools with Boys Toilet from 2013-14 to 2015-16
 Schools with Girls Toilet from 2013-14 to 2015-16
 
 [Here is a link to the dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics)
+
+Please download.
