@@ -1,5 +1,6 @@
 # Indian School Education Statistics
 **Inspiration**
+
 This study is inspired by the quest to know how the education in India is progressing over the years. You can start your exploration by answering the below questions:
 
 1. Which states have the highest Dropout Ratio?
