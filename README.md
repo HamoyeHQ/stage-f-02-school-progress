@@ -1,8 +1,22 @@
-# Campaign Finance versus Election Results
+# Indian School Education Statistics
 **Inspiration**
-How much of an impact does campaign spending and fundraising have on an election? Is the impact greater in certain areas? Given this dataset, to what degree of accuracy could we have predicted the election results?
+This study is inspired by the quest to know how the education in India is progressing over the years. You can start your exploration by answering the below questions:
+
+1. Which states have the highest Dropout Ratio?
+2. Do boys and girls have enough water and toilet facilities available?
+3. How is the Gross Enrollment ration for boys and girls in various levels of schooling life?
+4. Which level of school life is there less number of enrollment? Is it dropping or increasing?
 
 **Content**
 
-Each row represents a candidate, with information on their campaign including the state, district, office, total contributions, total expenditures, etc. The content is specific to the year leading up to the 2016 election: (1/1/2015 through 10/19/2016)
-[Here is a link to the dataset](https://www.kaggle.com/danerbland/electionfinance)
+This dataset contains 7 files in .csv format. You can find a description for each column. Let me summarize it here too.
+
+Percentage of Schools with Drinking Water Facility from 2013-14 to 2015-16
+Gross Enrolment Ratio from 2013-14 to 2015-16
+Drop-out rate from 2012-13 to 2014-15
+Percentage of Schools with Computers from 2013-14 to 2015-16
+Percentage of Schools with Electricity from 2013-14 to 2015-16
+Schools with Boys Toilet from 2013-14 to 2015-16
+Schools with Girls Toilet from 2013-14 to 2015-16
+
+[Here is a link to the dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics)
