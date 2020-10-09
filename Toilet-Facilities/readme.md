@@ -57,7 +57,7 @@ Let's explore the Drop-out Table from the Indian School Eduation [Dataset](https
   <summary>Bar Chart of <b>Total girls</b> Toilet facilities in 2014-15</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/girls_toilet_2014-15.png"> <br>
-  <p> Also rapid increse in the toilet facilities in the secondary school category in the 2014-15 session.</p>
+  <p> Also rapid increse in the toilet facilities in the secondary student category in the 2014-15 session.</p>
 </details>
 
 <details>
@@ -93,21 +93,21 @@ Let's explore the Drop-out Table from the Indian School Eduation [Dataset](https
   <summary>Bar Chart of <b>Boys</b> Toilet facilities in Mizoram (2013-14)</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/boys_worst_2013-14.png"> <br>
-  <h3> In 2013-14 session Primary_Only school category had the least toilet facility among the category types that had toilet facilities.<b> 6 other school categories had 0 toilet facilities this same year for boys.</b> </h3>
+  <h3> In 2013-14 session Primary_Only student category had the least toilet facility among the category types that had toilet facilities.<b> 6 other student categories had 0 toilet facilities this same year for boys.</b> </h3>
 </details>
 
 <details>
   <summary>Bar Chart of <b>Boys</b> Toilet facilities in all Mizoram (2014-15)</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/boys_worst_2014-15.png"> <br>
-  <h3> In 2014-15 session 'Primary_with_U_Primary' school category had the least toilet facility among the category types that had toilet facilities.<b> 5 other school categories had 0 toilet facilities this same year.</b> </h3>
+  <h3> In 2014-15 session 'Primary_with_U_Primary' student category had the least toilet facility among the category types that had toilet facilities.<b> 5 other student categories had 0 toilet facilities this same year.</b> </h3>
 </details>
 
 <details>
   <summary>Bar Chart of <b>Boys</b> Toilet facilities in all Mizoram (2015-16)</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/boys_worst_2015-16.png"> <br>
-  <h3> In 2015-16 session All displayed school category in the above chart have decent toilet facilities.<b> 5 other school categories had 0 toilet facilities this same year for boys.</b> </h3>
+  <h3> In 2015-16 session All displayed student category in the above chart have decent toilet facilities.<b> 5 other student categories had 0 toilet facilities this same year for boys.</b> </h3>
 </details>
 
 <!-- Girls -->
@@ -124,14 +124,14 @@ Let's explore the Drop-out Table from the Indian School Eduation [Dataset](https
   <summary>Bar Chart of <b>Girls</b> Toilet facilities in all Mizoram (2014-15)</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/girls_worst_2014-15.png"> <br>
-  <h3> In 2014-15 session 'Primary_with_U_Primary' school category had the least toilet facility among the category types that had toilet facilities.<b> 5 other school categories had 0 toilet facilities this same year.</b> </h3>
+  <h3> In 2014-15 session 'Primary_with_U_Primary' student category had the least toilet facility among the category types that had toilet facilities.<b> 5 other student categories had 0 toilet facilities this same year.</b> </h3>
 </details>
 
 <details>
   <summary>Bar Chart of <b>Girls</b> Toilet facilities in all Mizoram (2015-16)</summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/girls_worst_2015-16.png"> <br>
-  <h3> In 2015-16 session All displayed school category in the above chart have decent toilet facilities.<b> 5 other school categories had 0 toilet facilities this same year for girls.</b> </h3>
+  <h3> In 2015-16 session All displayed student category in the above chart have decent toilet facilities.<b> 5 other student categories had 0 toilet facilities this same year for girls.</b> </h3>
 </details>
 
 <div>
