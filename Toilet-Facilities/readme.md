@@ -1,6 +1,6 @@
 ## Do boys and girls have enough water and toilet facilities available?
 
-Let's explore the Drop-out Table from the Indian School Eduation [Dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics) and answer the question above.
+Let's explore the Toilet Facilities Table from the Indian School Eduation [Dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics) and answer the question above.
 
 <details>
   <summary>Bar Chart of <b>Total Boys</b> Toilet facilities per State</summary>
@@ -135,5 +135,5 @@ Let's explore the Drop-out Table from the Indian School Eduation [Dataset](https
 </details>
 
 <div>
-	 <blockquote>U_Primary_With_Sec is the student category with the most recurring Zeroes(0) of Toilet Facilities for both boys and girls in Mizoram State. </blockquote> 
+	 <blockquote>U_Primary_With_Sec is the student category with the most recurring Zeroes(0) of Toilet Facilities for both boys and girls through the 3 sessions in Mizoram state. </blockquote> 
 </div>
