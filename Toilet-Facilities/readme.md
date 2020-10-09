@@ -3,18 +3,18 @@
 Let's explore the Toilet Facilities Table from the Indian School Eduation [Dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics) and answer the question above.
 
 <details>
-  <summary>Bar Chart of <b>Total Boys</b> Toilet facilities per State</summary>
+  <summary>Bar Chart of <b>Total Boys</b> Toilet facilities per State of <b> Sec_only students </b> </summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/sec_only_boys_w_toilets.png"> <br>
 </details>
 
 <details>
-  <summary>Bar Chart of <b>Total Girls</b> Toilet facilities per State</summary>
+  <summary>Bar Chart of <b>Total Girls</b> Toilet facilities per State of of <b> Sec_only students </b>  </summary>
   <!-- Provide path to the screenshot here-->
   <img src="../images/Toilet-Facilities/sec_only_girls_w_toilets.png"> <br>
 </details>
 
-<p style="font-size: 24px"> Both Male and Female secondary students did not have enough toilet facilities overall. </p>
+<p style="font-size: 24px"> Both Male and Female <b> Sec_only students </b> did not have enough toilet facilities overall. </p>
 
 
 <h2>Toilet Facilities for <b>Boys</b> per session. </h2> 
