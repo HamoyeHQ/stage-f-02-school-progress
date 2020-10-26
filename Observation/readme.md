@@ -1,11 +1,12 @@
-Context
+**Context**
 
 This Folder was aimed at solved some key problem noticed from Indian School Education Statistics dataset of the year 2013-2014 to 2015-2016. 
 
+**Content**
 
-Content
-Once again the dataset was gotten from Kaggle: https://www.kaggle.com/vidyapb/indian-school-education-statistics
+Once again the dataset was gotten from Kaggle
 
+[Here is a link to the dataset](https://www.kaggle.com/vidyapb/indian-school-education-statistics)
 
 This dataset contains 7 files in .csv format. You can find a description for each column. Let me summarize it here too.
 
@@ -23,7 +24,8 @@ This dataset contains 7 files in .csv format. You can find a description for eac
 
 - Schools with Girls Toilet from 2013-14 to 2015-16
 
-Questions? 
+**Questions?** 
+
 Exploration of more relationships between the data
 
 A) Are lack of any of the facilities a cause of dropout?
@@ -34,6 +36,6 @@ c) is there a way to reduce the dropout ratio?
 
 D) is there a difference between Boys and Girls Dropout and enrollment ration ratio. And if yes why?
 
-Acknowledgements
+**Acknowledgements**
 
 I thank the Indian Government for making it public under their Open Government Data (OGD) Platform India.
