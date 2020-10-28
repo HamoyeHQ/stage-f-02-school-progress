@@ -34,7 +34,7 @@ B) is there any way we can increase the enrollment ratio
 
 c) is there a way to reduce the dropout ratio?
 
-D) is there a difference between Boys and Girls Dropout and enrollment ration ratio. And if yes why?
+D) is there a gender difference between Boys and Girls Dropout and enrollment ration ratio. And if yes why?
 
 **Acknowledgements**
 
