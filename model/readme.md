@@ -1,4 +1,4 @@
-# Student Gross Enrollment ForeCast
+# Student Gross Enrollment Forecast
 ## The Task is to use machine learning to forecast gross enrollment in 2015-16, using data of 2012-15 session, such as dropout rate, water and computer facilities. 
 ## In the first notebook the task was approached as a classification problem and in the second it was approached as a Regression problem.
 
